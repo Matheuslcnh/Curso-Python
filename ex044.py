@@ -1,4 +1,5 @@
 from time import sleep
+import math
 produto = float(input('Digite o valor a ser pago: '))
 
 print('Voce tem tres opcões de pagamento....')
